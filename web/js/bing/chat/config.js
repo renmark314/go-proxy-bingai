@@ -491,7 +491,7 @@ _w['_sydThreads'] = {
   threads: [],
 };
 _w['_sydConvTranslation'] = {
-  actionBarPlaceholder: '有问题尽管问我...（Shift + Enter = 换行，"/" 触发提示词）',
+  actionBarPlaceholder: 'Type here... (Shift + Enter = new line, "/" triggers the prompt word',
   actionBarAriaLabel: '询问必应',
   actionBarComposeButton: '新主题',
   actionBarNewChatButtonDesktop: '开始新聊天',
